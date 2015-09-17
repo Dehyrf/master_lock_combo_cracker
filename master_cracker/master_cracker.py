@@ -1,3 +1,4 @@
+#By Dehyrf under GNU GPL v3, based on wonderhow to findings
 import math
 print
 print 'For tutorial, please see video: https://www.youtube.com/watch?v=09UgmwtL12c.'
